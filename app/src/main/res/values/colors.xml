@@ -1,0 +1,21 @@
+<resources>
+    <!-- Names kept from the game template; values follow the Sweet Kitchen website palette -->
+    <color name="green">#A94F68</color>
+    <color name="green_light">#F8E6EB</color>
+    <color name="orange">#E08A3C</color>
+    <color name="orange_light">#FFF0E8</color>
+    <color name="cream">#FFF8F5</color>
+    <color name="text">#3D2B2B</color>
+    <color name="muted">#7A6A6A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gold">#FFD6A5</color>
+    <color name="red">#C0392B</color>
+    <color name="red_light">#FDECEA</color>
+    <color name="wall_top">#FFE4EC</color>
+    <color name="wall_bottom">#F8B4C4</color>
+    <color name="counter">#672A39</color>
+    <color name="counter_top">#C9A27E</color>
+    <color name="bubble">#FFFFFF</color>
+    <color name="fridge">#F3E3D3</color>
+    <color name="ok">#287348</color>
+</resources>

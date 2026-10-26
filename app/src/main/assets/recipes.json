@@ -1,0 +1,1024 @@
+[
+  {
+    "name": "Rice Pudding",
+    "category": "Turkish Desserts",
+    "emoji": "🍚",
+    "ingredients": [
+      "rice",
+      "milk",
+      "sugar",
+      "vanilla",
+      "cinnamon"
+    ],
+    "steps": [
+      "Wash the rice and cook it until soft.",
+      "Add the milk and bring to a gentle boil.",
+      "Add sugar and vanilla.",
+      "Cook until the mixture becomes creamy.",
+      "Pour into bowls and sprinkle with cinnamon."
+    ]
+  },
+  {
+    "name": "Baked Rice Pudding",
+    "category": "Turkish Desserts",
+    "emoji": "🍮",
+    "ingredients": [
+      "rice",
+      "milk",
+      "sugar",
+      "egg yolk",
+      "vanilla"
+    ],
+    "steps": [
+      "Cook the rice until soft.",
+      "Add milk and sugar.",
+      "Add vanilla.",
+      "Mix in the egg yolk.",
+      "Pour into oven-safe bowls.",
+      "Bake until the tops become golden."
+    ]
+  },
+  {
+    "name": "Baklava",
+    "category": "Turkish Desserts",
+    "emoji": "🥮",
+    "ingredients": [
+      "phyllo pastry",
+      "walnuts",
+      "butter",
+      "sugar",
+      "water",
+      "lemon"
+    ],
+    "steps": [
+      "Layer the phyllo pastry and brush each layer with melted butter.",
+      "Add chopped walnuts between the layers.",
+      "Cut the baklava into pieces.",
+      "Pour melted butter over the top.",
+      "Bake until golden brown.",
+      "Prepare the syrup and pour it over the hot baklava."
+    ]
+  },
+  {
+    "name": "Revani",
+    "category": "Turkish Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "semolina",
+      "eggs",
+      "sugar",
+      "yogurt",
+      "flour",
+      "baking powder",
+      "lemon"
+    ],
+    "steps": [
+      "Beat the eggs and sugar.",
+      "Add yogurt and semolina.",
+      "Add flour and baking powder.",
+      "Pour into a baking dish.",
+      "Bake until golden.",
+      "Prepare lemon syrup and pour it over the cake."
+    ]
+  },
+  {
+    "name": "Sekerpare",
+    "category": "Turkish Desserts",
+    "emoji": "🍪",
+    "ingredients": [
+      "flour",
+      "semolina",
+      "butter",
+      "eggs",
+      "sugar",
+      "baking powder",
+      "lemon"
+    ],
+    "steps": [
+      "Mix the butter and sugar.",
+      "Add the egg.",
+      "Add semolina and flour.",
+      "Shape the dough into small pieces.",
+      "Bake until golden.",
+      "Pour prepared syrup over the hot cookies."
+    ]
+  },
+  {
+    "name": "Tres Leches Cake",
+    "category": "Milk Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "eggs",
+      "sugar",
+      "flour",
+      "milk",
+      "cream",
+      "condensed milk",
+      "caramel"
+    ],
+    "steps": [
+      "Beat eggs and sugar.",
+      "Add flour.",
+      "Bake the sponge cake.",
+      "Prepare the milk mixture.",
+      "Pour the milk mixture over the cake.",
+      "Top with caramel sauce."
+    ]
+  },
+  {
+    "name": "Kazandibi",
+    "category": "Turkish Desserts",
+    "emoji": "🥛",
+    "ingredients": [
+      "milk",
+      "sugar",
+      "rice flour",
+      "cornstarch",
+      "butter",
+      "vanilla"
+    ],
+    "steps": [
+      "Mix milk, sugar, rice flour and cornstarch.",
+      "Cook until thick.",
+      "Butter a baking tray.",
+      "Spread the mixture over the tray.",
+      "Cook the bottom until caramelized.",
+      "Roll and serve."
+    ]
+  },
+  {
+    "name": "Strawberry Magnolia",
+    "category": "Milk Desserts",
+    "emoji": "🍓",
+    "ingredients": [
+      "milk",
+      "sugar",
+      "flour",
+      "cornstarch",
+      "strawberries",
+      "biscuits",
+      "vanilla"
+    ],
+    "steps": [
+      "Cook milk, sugar, flour and cornstarch.",
+      "Add vanilla.",
+      "Crush the biscuits.",
+      "Slice the strawberries.",
+      "Layer biscuits, cream and strawberries in glasses.",
+      "Chill before serving."
+    ]
+  },
+  {
+    "name": "Profiteroles",
+    "category": "Chocolate Desserts",
+    "emoji": "🍫",
+    "ingredients": [
+      "flour",
+      "eggs",
+      "butter",
+      "water",
+      "milk",
+      "sugar",
+      "chocolate"
+    ],
+    "steps": [
+      "Boil water and butter.",
+      "Add flour and mix.",
+      "Add the eggs.",
+      "Pipe small portions onto a baking tray.",
+      "Bake until puffed.",
+      "Fill with cream.",
+      "Cover with chocolate sauce."
+    ]
+  },
+  {
+    "name": "Chocolate Cake",
+    "category": "Cakes",
+    "emoji": "🍫",
+    "ingredients": [
+      "flour",
+      "eggs",
+      "sugar",
+      "milk",
+      "cocoa powder",
+      "vegetable oil",
+      "baking powder"
+    ],
+    "steps": [
+      "Beat eggs and sugar.",
+      "Add milk and vegetable oil.",
+      "Add cocoa powder.",
+      "Add flour and baking powder.",
+      "Pour into a cake pan.",
+      "Bake until cooked through."
+    ]
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "category": "Chocolate Desserts",
+    "emoji": "🍫",
+    "ingredients": [
+      "dark chocolate",
+      "butter",
+      "eggs",
+      "sugar",
+      "flour"
+    ],
+    "steps": [
+      "Melt the chocolate and butter.",
+      "Beat the eggs and sugar.",
+      "Mix in the chocolate.",
+      "Add flour.",
+      "Pour into small ramekins.",
+      "Bake briefly at high heat."
+    ]
+  },
+  {
+    "name": "Brownies",
+    "category": "Chocolate Desserts",
+    "emoji": "🍫",
+    "ingredients": [
+      "chocolate",
+      "butter",
+      "eggs",
+      "sugar",
+      "flour",
+      "cocoa powder"
+    ],
+    "steps": [
+      "Melt chocolate and butter.",
+      "Beat eggs and sugar.",
+      "Add the melted chocolate.",
+      "Add flour and cocoa powder.",
+      "Pour into a baking pan.",
+      "Bake until the center is slightly soft."
+    ]
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "category": "Cookies",
+    "emoji": "🍪",
+    "ingredients": [
+      "flour",
+      "butter",
+      "sugar",
+      "eggs",
+      "chocolate chips",
+      "baking soda"
+    ],
+    "steps": [
+      "Cream butter and sugar.",
+      "Add the egg.",
+      "Add flour and baking soda.",
+      "Mix in chocolate chips.",
+      "Shape the cookies.",
+      "Bake until golden around the edges."
+    ]
+  },
+  {
+    "name": "Shortbread Cookies",
+    "category": "Cookies",
+    "emoji": "🍪",
+    "ingredients": [
+      "flour",
+      "butter",
+      "powdered sugar",
+      "cornstarch"
+    ],
+    "steps": [
+      "Soften the butter.",
+      "Add powdered sugar.",
+      "Add cornstarch and flour.",
+      "Mix into a soft dough.",
+      "Shape the cookies.",
+      "Bake at a low temperature."
+    ]
+  },
+  {
+    "name": "Apple Cookies",
+    "category": "Cookies",
+    "emoji": "🍎",
+    "ingredients": [
+      "flour",
+      "butter",
+      "apple",
+      "sugar",
+      "cinnamon",
+      "walnuts"
+    ],
+    "steps": [
+      "Cook diced apples with sugar and cinnamon.",
+      "Prepare the dough with flour and butter.",
+      "Roll out the dough.",
+      "Add the apple filling.",
+      "Shape the cookies.",
+      "Bake until golden."
+    ]
+  },
+  {
+    "name": "Walnut Cookies",
+    "category": "Cookies",
+    "emoji": "🌰",
+    "ingredients": [
+      "flour",
+      "butter",
+      "sugar",
+      "eggs",
+      "walnuts",
+      "baking powder"
+    ],
+    "steps": [
+      "Mix butter and sugar.",
+      "Add the egg.",
+      "Add flour and baking powder.",
+      "Add chopped walnuts.",
+      "Shape the cookies.",
+      "Bake until golden."
+    ]
+  },
+  {
+    "name": "Cocoa Cookies",
+    "category": "Cookies",
+    "emoji": "🍪",
+    "ingredients": [
+      "flour",
+      "butter",
+      "sugar",
+      "eggs",
+      "cocoa powder",
+      "baking powder"
+    ],
+    "steps": [
+      "Mix butter and sugar.",
+      "Add the egg.",
+      "Add cocoa powder.",
+      "Add flour and baking powder.",
+      "Shape the cookies.",
+      "Bake until ready."
+    ]
+  },
+  {
+    "name": "Cheesecake",
+    "category": "International Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "biscuits",
+      "butter",
+      "cream cheese",
+      "sugar",
+      "eggs",
+      "cream",
+      "vanilla"
+    ],
+    "steps": [
+      "Crush the biscuits.",
+      "Mix them with melted butter.",
+      "Press the mixture into a cake pan.",
+      "Mix cream cheese, sugar, eggs and cream.",
+      "Pour over the biscuit base.",
+      "Bake and chill before serving."
+    ]
+  },
+  {
+    "name": "Chocolate Cheesecake",
+    "category": "Chocolate Desserts",
+    "emoji": "🍫",
+    "ingredients": [
+      "biscuits",
+      "butter",
+      "cream cheese",
+      "chocolate",
+      "sugar",
+      "eggs",
+      "cream"
+    ],
+    "steps": [
+      "Prepare the biscuit base.",
+      "Melt the chocolate.",
+      "Mix cream cheese, sugar and eggs.",
+      "Add the melted chocolate.",
+      "Add cream.",
+      "Bake and chill."
+    ]
+  },
+  {
+    "name": "Tiramisu",
+    "category": "International Desserts",
+    "emoji": "☕",
+    "ingredients": [
+      "mascarpone",
+      "ladyfingers",
+      "coffee",
+      "eggs",
+      "sugar",
+      "cocoa powder"
+    ],
+    "steps": [
+      "Prepare the coffee.",
+      "Beat the eggs and sugar.",
+      "Mix in mascarpone.",
+      "Dip ladyfingers into coffee.",
+      "Layer ladyfingers and cream.",
+      "Dust the top with cocoa powder.",
+      "Chill before serving."
+    ]
+  },
+  {
+    "name": "Panna Cotta",
+    "category": "International Desserts",
+    "emoji": "🥛",
+    "ingredients": [
+      "cream",
+      "milk",
+      "sugar",
+      "vanilla",
+      "gelatin"
+    ],
+    "steps": [
+      "Heat the milk and cream.",
+      "Add sugar.",
+      "Add vanilla.",
+      "Add gelatin and mix.",
+      "Pour into molds.",
+      "Refrigerate until set."
+    ]
+  },
+  {
+    "name": "Chocolate Mousse",
+    "category": "Chocolate Desserts",
+    "emoji": "🍫",
+    "ingredients": [
+      "dark chocolate",
+      "cream",
+      "sugar",
+      "vanilla"
+    ],
+    "steps": [
+      "Melt the chocolate.",
+      "Whip the cream.",
+      "Gently fold the chocolate into the cream.",
+      "Add vanilla.",
+      "Chill before serving."
+    ]
+  },
+  {
+    "name": "Crème Brûlée",
+    "category": "International Desserts",
+    "emoji": "🍮",
+    "ingredients": [
+      "cream",
+      "egg yolk",
+      "sugar",
+      "vanilla"
+    ],
+    "steps": [
+      "Heat the cream with vanilla.",
+      "Whisk egg yolks and sugar.",
+      "Slowly add the warm cream.",
+      "Pour into ramekins.",
+      "Bake in a water bath.",
+      "Sprinkle sugar on top and caramelize."
+    ]
+  },
+  {
+    "name": "Pancakes",
+    "category": "Cakes",
+    "emoji": "🥞",
+    "ingredients": [
+      "flour",
+      "eggs",
+      "milk",
+      "sugar",
+      "baking powder",
+      "butter"
+    ],
+    "steps": [
+      "Mix the egg and milk.",
+      "Add flour, sugar and baking powder.",
+      "Mix into a smooth batter.",
+      "Cook small pancakes in a pan.",
+      "Serve with fruit, honey or chocolate."
+    ]
+  },
+  {
+    "name": "Belgian Waffles",
+    "category": "International Desserts",
+    "emoji": "🧇",
+    "ingredients": [
+      "flour",
+      "eggs",
+      "milk",
+      "sugar",
+      "butter",
+      "baking powder"
+    ],
+    "steps": [
+      "Beat eggs and sugar.",
+      "Add milk and melted butter.",
+      "Add flour and baking powder.",
+      "Cook in a waffle maker.",
+      "Serve with fruit and chocolate."
+    ]
+  },
+  {
+    "name": "Chocolate Pudding",
+    "category": "Chocolate Desserts",
+    "emoji": "🍫",
+    "ingredients": [
+      "milk",
+      "sugar",
+      "cocoa powder",
+      "cornstarch",
+      "chocolate",
+      "vanilla"
+    ],
+    "steps": [
+      "Mix milk, sugar, cocoa and cornstarch.",
+      "Cook until thick.",
+      "Add chocolate.",
+      "Add vanilla.",
+      "Pour into bowls and chill."
+    ]
+  },
+  {
+    "name": "Supangle",
+    "category": "Chocolate Desserts",
+    "emoji": "🍫",
+    "ingredients": [
+      "milk",
+      "sugar",
+      "cocoa powder",
+      "flour",
+      "chocolate",
+      "butter"
+    ],
+    "steps": [
+      "Mix milk, cocoa, sugar and flour.",
+      "Cook until thick.",
+      "Add chocolate.",
+      "Add butter.",
+      "Pour into serving bowls.",
+      "Chill before serving."
+    ]
+  },
+  {
+    "name": "Banana Pudding",
+    "category": "Milk Desserts",
+    "emoji": "🍌",
+    "ingredients": [
+      "banana",
+      "milk",
+      "sugar",
+      "flour",
+      "cornstarch",
+      "vanilla"
+    ],
+    "steps": [
+      "Mix milk, sugar, flour and cornstarch.",
+      "Cook until thick.",
+      "Add vanilla.",
+      "Slice the bananas.",
+      "Layer pudding and bananas in glasses."
+    ]
+  },
+  {
+    "name": "Apple Crumble",
+    "category": "International Desserts",
+    "emoji": "🍎",
+    "ingredients": [
+      "apple",
+      "flour",
+      "oats",
+      "butter",
+      "sugar",
+      "cinnamon"
+    ],
+    "steps": [
+      "Slice the apples.",
+      "Mix them with sugar and cinnamon.",
+      "Combine flour, oats, butter and sugar.",
+      "Sprinkle the crumble mixture over the apples.",
+      "Bake until golden."
+    ]
+  },
+  {
+    "name": "Apple Pie",
+    "category": "International Desserts",
+    "emoji": "🥧",
+    "ingredients": [
+      "apple",
+      "flour",
+      "butter",
+      "sugar",
+      "cinnamon",
+      "eggs"
+    ],
+    "steps": [
+      "Prepare the dough with flour, butter and egg.",
+      "Cook the apples with sugar and cinnamon.",
+      "Place dough into a pie pan.",
+      "Add the apple filling.",
+      "Cover with dough.",
+      "Bake until golden."
+    ]
+  },
+  {
+    "name": "Banana Bread",
+    "category": "Cakes",
+    "emoji": "🍌",
+    "ingredients": [
+      "banana",
+      "flour",
+      "eggs",
+      "sugar",
+      "butter",
+      "baking powder"
+    ],
+    "steps": [
+      "Mash the bananas.",
+      "Add eggs and sugar.",
+      "Add melted butter.",
+      "Add flour and baking powder.",
+      "Pour into a loaf pan.",
+      "Bake until golden."
+    ]
+  },
+  {
+    "name": "Carrot Cake",
+    "category": "Cakes",
+    "emoji": "🥕",
+    "ingredients": [
+      "flour",
+      "eggs",
+      "sugar",
+      "carrots",
+      "cinnamon",
+      "walnuts",
+      "vegetable oil"
+    ],
+    "steps": [
+      "Beat eggs and sugar.",
+      "Add grated carrots.",
+      "Add walnuts and cinnamon.",
+      "Add flour and baking powder.",
+      "Pour into a cake pan.",
+      "Bake until done."
+    ]
+  },
+  {
+    "name": "Lemon Cake",
+    "category": "Cakes",
+    "emoji": "🍋",
+    "ingredients": [
+      "flour",
+      "eggs",
+      "sugar",
+      "lemon",
+      "butter",
+      "milk",
+      "baking powder"
+    ],
+    "steps": [
+      "Beat eggs and sugar.",
+      "Add lemon juice and zest.",
+      "Add milk and butter.",
+      "Add flour and baking powder.",
+      "Bake until golden."
+    ]
+  },
+  {
+    "name": "Muffins",
+    "category": "Cakes",
+    "emoji": "🧁",
+    "ingredients": [
+      "flour",
+      "eggs",
+      "milk",
+      "sugar",
+      "butter",
+      "baking powder"
+    ],
+    "steps": [
+      "Mix the dry ingredients.",
+      "Mix eggs, milk and melted butter.",
+      "Combine wet and dry ingredients.",
+      "Fill muffin cups.",
+      "Bake until golden."
+    ]
+  },
+  {
+    "name": "Chocolate Muffins",
+    "category": "Chocolate Desserts",
+    "emoji": "🧁",
+    "ingredients": [
+      "flour",
+      "cocoa powder",
+      "eggs",
+      "milk",
+      "sugar",
+      "butter",
+      "chocolate chips"
+    ],
+    "steps": [
+      "Mix flour and cocoa powder.",
+      "Add eggs, milk and butter.",
+      "Add sugar.",
+      "Fold in chocolate chips.",
+      "Fill muffin cups.",
+      "Bake until cooked."
+    ]
+  },
+  {
+    "name": "Coconut Cookies",
+    "category": "Cookies",
+    "emoji": "🥥",
+    "ingredients": [
+      "coconut",
+      "eggs",
+      "sugar",
+      "flour",
+      "butter"
+    ],
+    "steps": [
+      "Beat eggs and sugar.",
+      "Add coconut and flour.",
+      "Add butter.",
+      "Shape into small cookies.",
+      "Bake until golden."
+    ]
+  },
+  {
+    "name": "Cinnamon Cookies",
+    "category": "Cookies",
+    "emoji": "🍪",
+    "ingredients": [
+      "flour",
+      "butter",
+      "sugar",
+      "eggs",
+      "cinnamon",
+      "baking powder"
+    ],
+    "steps": [
+      "Mix butter and sugar.",
+      "Add the egg.",
+      "Add flour, cinnamon and baking powder.",
+      "Shape the cookies.",
+      "Bake until golden."
+    ]
+  },
+  {
+    "name": "Chocolate Truffles",
+    "category": "Chocolate Desserts",
+    "emoji": "🍫",
+    "ingredients": [
+      "dark chocolate",
+      "cream",
+      "butter",
+      "cocoa powder"
+    ],
+    "steps": [
+      "Melt the chocolate with cream.",
+      "Add butter.",
+      "Chill until firm.",
+      "Shape into small balls.",
+      "Roll in cocoa powder."
+    ]
+  },
+  {
+    "name": "Chocolate Coconut Balls",
+    "category": "Chocolate Desserts",
+    "emoji": "🥥",
+    "ingredients": [
+      "biscuits",
+      "chocolate",
+      "milk",
+      "butter",
+      "cocoa powder",
+      "coconut"
+    ],
+    "steps": [
+      "Crush the biscuits.",
+      "Melt the chocolate and butter.",
+      "Add milk and cocoa powder.",
+      "Mix with the biscuits.",
+      "Shape into balls.",
+      "Roll in coconut."
+    ]
+  },
+  {
+    "name": "Fruit Parfait",
+    "category": "Milk Desserts",
+    "emoji": "🍓",
+    "ingredients": [
+      "yogurt",
+      "honey",
+      "strawberries",
+      "banana",
+      "oats"
+    ],
+    "steps": [
+      "Mix yogurt and honey.",
+      "Slice the fruit.",
+      "Add oats.",
+      "Layer yogurt, fruit and oats.",
+      "Chill before serving."
+    ]
+  },
+  {
+    "name": "Strawberry Yogurt Dessert",
+    "category": "Milk Desserts",
+    "emoji": "🍓",
+    "ingredients": [
+      "yogurt",
+      "honey",
+      "strawberries",
+      "vanilla"
+    ],
+    "steps": [
+      "Mix yogurt with honey and vanilla.",
+      "Slice the strawberries.",
+      "Layer yogurt and strawberries.",
+      "Chill before serving."
+    ]
+  },
+  {
+    "name": "Banana Smoothie Bowl",
+    "category": "Milk Desserts",
+    "emoji": "🍌",
+    "ingredients": [
+      "banana",
+      "yogurt",
+      "honey",
+      "oats",
+      "strawberries"
+    ],
+    "steps": [
+      "Blend banana and yogurt.",
+      "Add honey.",
+      "Pour into a bowl.",
+      "Top with oats and strawberries."
+    ]
+  },
+  {
+    "name": "Semolina Halva",
+    "category": "Turkish Desserts",
+    "emoji": "🍯",
+    "ingredients": [
+      "semolina",
+      "butter",
+      "sugar",
+      "milk",
+      "pine nuts"
+    ],
+    "steps": [
+      "Melt the butter.",
+      "Add pine nuts.",
+      "Add semolina and toast it.",
+      "Add milk and sugar.",
+      "Cook until the liquid is absorbed.",
+      "Rest before serving."
+    ]
+  },
+  {
+    "name": "Flour Halva",
+    "category": "Turkish Desserts",
+    "emoji": "🍯",
+    "ingredients": [
+      "flour",
+      "butter",
+      "sugar",
+      "milk"
+    ],
+    "steps": [
+      "Melt the butter.",
+      "Add flour and toast it.",
+      "Add milk and sugar.",
+      "Stir until thick.",
+      "Rest before serving."
+    ]
+  },
+  {
+    "name": "Lokma",
+    "category": "Turkish Desserts",
+    "emoji": "🍩",
+    "ingredients": [
+      "flour",
+      "yeast",
+      "sugar",
+      "water",
+      "vegetable oil",
+      "lemon"
+    ],
+    "steps": [
+      "Prepare a soft dough with flour, yeast and water.",
+      "Let the dough rise.",
+      "Fry small pieces in hot oil.",
+      "Dip them into syrup.",
+      "Serve with cinnamon or walnuts."
+    ]
+  },
+  {
+    "name": "Tulumba",
+    "category": "Turkish Desserts",
+    "emoji": "🍩",
+    "ingredients": [
+      "flour",
+      "eggs",
+      "butter",
+      "cornstarch",
+      "sugar",
+      "water",
+      "lemon"
+    ],
+    "steps": [
+      "Boil water and butter.",
+      "Add flour and cornstarch.",
+      "Add the eggs.",
+      "Pipe the dough into hot oil.",
+      "Fry until golden.",
+      "Dip into syrup."
+    ]
+  },
+  {
+    "name": "Donuts",
+    "category": "International Desserts",
+    "emoji": "🍩",
+    "ingredients": [
+      "flour",
+      "yeast",
+      "milk",
+      "sugar",
+      "eggs",
+      "butter"
+    ],
+    "steps": [
+      "Prepare a soft dough.",
+      "Let the dough rise.",
+      "Cut into donut shapes.",
+      "Fry until golden.",
+      "Decorate with chocolate or icing."
+    ]
+  },
+  {
+    "name": "Chocolate Rice Pudding",
+    "category": "Chocolate Desserts",
+    "emoji": "🍫",
+    "ingredients": [
+      "rice",
+      "milk",
+      "sugar",
+      "cocoa powder",
+      "chocolate"
+    ],
+    "steps": [
+      "Cook the rice until soft.",
+      "Add milk.",
+      "Add sugar and cocoa powder.",
+      "Add chocolate.",
+      "Cook until creamy.",
+      "Chill before serving."
+    ]
+  },
+  {
+    "name": "Honey Yogurt Dessert",
+    "category": "Milk Desserts",
+    "emoji": "🍯",
+    "ingredients": [
+      "yogurt",
+      "honey",
+      "walnuts",
+      "cinnamon",
+      "banana"
+    ],
+    "steps": [
+      "Place yogurt in a bowl.",
+      "Add honey.",
+      "Slice the banana.",
+      "Add walnuts.",
+      "Sprinkle with cinnamon.",
+      "Serve chilled."
+    ]
+  },
+  {
+    "name": "Chocolate Waffles",
+    "category": "Chocolate Desserts",
+    "emoji": "🧇",
+    "ingredients": [
+      "flour",
+      "eggs",
+      "milk",
+      "sugar",
+      "cocoa powder",
+      "butter"
+    ],
+    "steps": [
+      "Beat the eggs and sugar.",
+      "Add milk and melted butter.",
+      "Add flour and cocoa powder.",
+      "Mix until smooth.",
+      "Cook in a waffle maker.",
+      "Serve with chocolate and fruit."
+    ]
+  }
+]

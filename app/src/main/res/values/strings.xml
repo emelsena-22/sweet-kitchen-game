@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sweet Kitchen Rush</string>
+    <string name="subtitle">Bakery Rush</string>
+    <string name="tagline">The bakery is open and everyone wants dessert! Pick the right ingredients from the pantry before your guests run out of patience.</string>
+    <string name="how_title">How to play</string>
+    <string name="how_text">🧁  A guest orders one of 50 Sweet Kitchen desserts.\n🧺  Tap the right ingredients in your pantry.\n✅  Correct ingredient: +10 points\n❌  Wrong ingredient: −5 points and −1 second\n🔥  All ingredients in: the dessert goes in the oven and is served\n🍰  Dessert served: +50 points + time bonus\n👑  VIP guests pay DOUBLE points\n🎀  Serve desserts in a row with no mistakes for a combo (x2, x3)\n💔  If a guest waits too long, they leave and you lose a heart\n⭐  Every 3 desserts the level goes up and guests get less patient</string>
+    <string name="start_button">▶  Open the Bakery</string>
+    <string name="fridge_title">🧺 Your Pantry</string>
+    <string name="again_button">🔄  Bake Again</string>
+    <string name="menu_button">🏠  Main Menu</string>
+    <string name="decor">🎀   🧁   🕯️   🎂   🕯️   🧁   🎀</string>
+</resources>
